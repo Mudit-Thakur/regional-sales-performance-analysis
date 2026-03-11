@@ -249,7 +249,7 @@ regional-sales-analysis
 ├── mudit_regional_sales_eda_completed_final.ipynb
 │
 ├── dataset
-│   └── sales_data.csv
+│   └──mudit_sales_data_eda_completed_final.csv
 │
 ├── visuals
 │   └── charts
